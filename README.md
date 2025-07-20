@@ -21,9 +21,7 @@ The goal of this project is to classify iris flowers into one of three species â
 
 4. **Model Training**  
    - Applied machine learning algorithms including:
-     - Logistic Regression  
      - K-Nearest Neighbors (KNN)  
-     - Support Vector Machine (SVM)  
    - Split the dataset into training and testing sets (typically 80/20 split).
 
 5. **Model Evaluation**  
